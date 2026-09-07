@@ -5,7 +5,7 @@ about:
   head: 0400896
   archived: false
   latestVersion: "v0.8.0"
-  collectedAt: 2026-09-07T04:31:08Z
+  collectedAt: 2026-09-07T19:50:50Z
 timeline:
   created: 2019-02-02
   lastCommit: 2025-08-18
@@ -80,7 +80,7 @@ total:
   commit: 134
 ---
 path: /home/runner/.x-repo/github.com/robscott/kube-capacity
-collectedAt: 2026-09-07T04:31:13Z
+collectedAt: 2026-09-07T19:50:54Z
 loc:
   Go:
     code: 2179
@@ -208,7 +208,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:31:14+00:00
+  collectedAt: 2026-09-07T19:50:55+00:00
   platform:
     darwin/arm64:
       name:  kube-capacity_v0.8.0_darwin_arm64.tar.gz

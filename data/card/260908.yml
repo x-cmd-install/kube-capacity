@@ -5,7 +5,7 @@ about:
   head: 0400896
   archived: false
   latestVersion: "v0.8.0"
-  collectedAt: 2026-09-08T01:46:52Z
+  collectedAt: 2026-09-08T04:33:47Z
 timeline:
   created: 2019-02-02
   lastCommit: 2025-08-18
@@ -80,7 +80,7 @@ total:
   commit: 134
 ---
 path: /home/runner/.x-repo/github.com/robscott/kube-capacity
-collectedAt: 2026-09-08T01:46:58Z
+collectedAt: 2026-09-08T04:33:51Z
 loc:
   Go:
     code: 2179

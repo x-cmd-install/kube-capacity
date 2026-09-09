@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: "v0.8.0-rc3"
-  collectedAt: 2026-09-09T04:33:46Z
+  collectedAt: 2026-09-09T18:45:37Z
 timeline:
   created: 2019-02-02
   lastCommit: 2025-08-18
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2024-02-21
   lastPrerelease: 2024-02-16
 popularity:
-  star: 2666
+  star: 2667
   watcher: 14
   fork: 133
   release: 31
@@ -84,7 +84,7 @@ total:
   commit: 134
 ---
 path: /home/runner/.x-repo/github.com/robscott/kube-capacity
-collectedAt: 2026-09-09T04:33:54Z
+collectedAt: 2026-09-09T18:45:46Z
 loc:
   Go:
     code: 2179

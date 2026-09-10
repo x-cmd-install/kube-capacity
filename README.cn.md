@@ -4,7 +4,7 @@
 
 A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 
-![kube-capacity](https://repo.x-cmd.io/kube-capacity.svg)
+![kube-capacity](https://repo.x-cmd.io/kube-capacity.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,20 @@ x install kube-capacity
 - **最新版本**: `v0.8.0` (2024-02-21)
 - **最近提交**: 2025-08-18
 - **Release 含资产**: 9 个
-- **发布时间**: 2024-02-21T04:43:07Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/robscott/kube-capacity/releases/download/v0.8.0/checksums.txt) | 848 B | `other` |
+| [kube-capacity_v0.8.0_darwin_arm64.tar.gz](https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_darwin_arm64.tar.gz) | 10.8 MiB | `native/darwin/arm64` |
+| [kube-capacity_v0.8.0_darwin_x86_64.tar.gz](https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_darwin_x86_64.tar.gz) | 11.3 MiB | `native/darwin/x64` |
+| [kube-capacity_v0.8.0_linux_arm64.tar.gz](https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_linux_arm64.tar.gz) | 9.7 MiB | `native/linux/arm64` |
+| [kube-capacity_v0.8.0_linux_i386.tar.gz](https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_linux_i386.tar.gz) | 9.9 MiB | `native/linux/x86` |
+| [kube-capacity_v0.8.0_linux_x86_64.tar.gz](https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_linux_x86_64.tar.gz) | 10.8 MiB | `native/linux/x64` |
+| [kube-capacity_v0.8.0_windows_arm64.zip](https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_windows_arm64.zip) | 9.7 MiB | `native/win/arm64` |
+| [kube-capacity_v0.8.0_windows_i386.zip](https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_windows_i386.zip) | 10.5 MiB | `native/win/x64` |
+| [kube-capacity_v0.8.0_windows_x86_64.zip](https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_windows_x86_64.zip) | 11.1 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -69,4 +82,4 @@ kube-capacity 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:31:55Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:29:22Z._

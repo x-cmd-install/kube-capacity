@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 848,
       "digest": null,
-      "download_count": 21001,
+      "download_count": 21076,
       "created_at": "2024-02-21T04:43:12Z",
       "updated_at": "2024-02-21T04:43:12Z",
       "browser_download_url": "https://github.com/robscott/kube-capacity/releases/download/v0.8.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11284620,
       "digest": null,
-      "download_count": 22166,
+      "download_count": 22168,
       "created_at": "2024-02-21T04:43:08Z",
       "updated_at": "2024-02-21T04:43:10Z",
       "browser_download_url": "https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10139228,
       "digest": null,
-      "download_count": 184857,
+      "download_count": 184935,
       "created_at": "2024-02-21T04:43:10Z",
       "updated_at": "2024-02-21T04:43:11Z",
       "browser_download_url": "https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_linux_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11278707,
       "digest": null,
-      "download_count": 221125,
+      "download_count": 221438,
       "created_at": "2024-02-21T04:43:10Z",
       "updated_at": "2024-02-21T04:43:11Z",
       "browser_download_url": "https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_linux_x86_64.tar.gz"

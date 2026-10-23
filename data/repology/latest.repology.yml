@@ -1,0 +1,99 @@
+- repo: aur
+  srcname: kube-capacity
+  binname: kube-capacity
+  visiblename: kube-capacity
+  version: 0.4.0
+  origversion: 0.4.0-1
+  status: outdated
+  summary: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: kube-capacity-bin
+  binname: kube-capacity-bin
+  visiblename: kube-capacity-bin
+  version: v0.8.0
+  origversion: v0.8.0-3
+  status: outdated
+  summary: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+  maintainers:
+    - justinhung@aur
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: kube-capacity
+  visiblename: kube-capacity
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: kube-capacity
+  visiblename: kube-capacity
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: kube-capacity
+  visiblename: kube-capacity
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: kube-capacity
+  visiblename: kube-capacity
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: Simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: kube-capacity
+  visiblename: kube-capacity
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: Simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: kube-capacity
+  visiblename: kube-capacity
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: Simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: wakemeops
+  subrepo: devops
+  binname: kube-capacity
+  visiblename: kube-capacity
+  version: 0.8.0
+  origversion: 0.8.0-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
